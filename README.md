@@ -1,1 +1,1 @@
-# Behavioral_Risk_Index
+# Behavioral Risk Index
